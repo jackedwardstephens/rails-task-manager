@@ -17,3 +17,8 @@ body {
   max-width: 700;
   margin: 0 auto;
 }
+
+.container-md {
+  margin-top: 50px;
+  border-left: 5px solid #999;
+}
